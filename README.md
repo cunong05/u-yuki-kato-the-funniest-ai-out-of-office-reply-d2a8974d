@@ -14,6 +14,6 @@ Entry for the [make.fun bounty "The Funniest AI Out-of-Office Reply"](https://ma
 
 Why this one: the joke lands first (PTO = Prompt Time Off), the machine voice is unmistakable (tokens, temperature, hallucinate), and it fits the brief exactly — an AI agent on vacation, replying later, maybe not entirely accurately.
 
-## Candidates
+`main.ts` (Node 22 stdlib only, no network, deterministic) writes that line to `$OUTPUT_DIR/entry.txt` (default `/output`).
 
-The full shortlist and the reasoning behind the pick live in [CANDIDATES.md](CANDIDATES.md).
+Referral code: `4w89k05q`
